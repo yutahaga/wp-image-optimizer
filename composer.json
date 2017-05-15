@@ -1,0 +1,11 @@
+{
+  "name": "yutahaga/wp-image-optimizer",
+  "description": "Plug-in to optimize image files on WordPress.",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0+",
+  "version": "0.0.1",
+  "authors": [{
+    "name": "Yuta Haga",
+    "email": "yutahaga7@gmail.com"
+  }]
+}
